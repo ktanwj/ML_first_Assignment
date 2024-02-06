@@ -1,0 +1,6 @@
+,model,Score,Best hyperparameters,Test score,Best refit time
+0,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'entropy', 'max_depth': 10, 'max_features': 'log2', 'min_samples_leaf': 10, 'min_samples_split': 100}",0.7350242849433352,0.008814096450805664
+0,KNeighborsClassifier,f1,"{'algorithm': 'ball_tree', 'n_neighbors': 20, 'p': 3, 'weights': 'distance'}",0.7226435536294692,0.021727323532104492
+0,SVC,f1,"{'C': 1.0, 'kernel': 'rbf'}",0.7717842323651454,10.374989032745361
+0,GradientBoostingClassifier,f1,"{'learning_rate': 0.2, 'max_features': 'sqrt', 'n_estimators': 100}",0.7725593667546174,0.4204738140106201
+0,MLPClassifier,f1,"{'activation': 'tanh', 'hidden_layer_sizes': (100, 50, 25), 'learning_rate': 'constant', 'learning_rate_init': 0.05}",0.7443267776096824,4.77877402305603

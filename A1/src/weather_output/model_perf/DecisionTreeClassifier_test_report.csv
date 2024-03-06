@@ -1,0 +1,2 @@
+,model,Score,Best hyperparameters,Test score,Best refit time
+0,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'gini', 'max_depth': 100, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2}",0.9032943676939427,0.027442216873168945

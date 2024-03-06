@@ -1,0 +1,2 @@
+,model,Score,Best hyperparameters,Test score,Best refit time
+0,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 0}",0.5498489425981873,1.796302318572998

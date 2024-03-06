@@ -1,2 +1,0 @@
-,model,Score,Best hyperparameters,Test score,Best refit time
-0,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'entropy', 'max_depth': 10, 'max_features': 'log2', 'min_samples_leaf': 10, 'min_samples_split': 100}",0.7350242849433352,0.008814096450805664

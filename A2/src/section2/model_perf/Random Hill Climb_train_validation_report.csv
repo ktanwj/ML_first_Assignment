@@ -1,0 +1,6 @@
+,model,Scoring metric,Hyperparameters,Mean score (validation),Std score (validation),Mean wall clock time
+0,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 0}",,,5.131745100021362
+1,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 3}",,,20.733600473403932
+2,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 0}",,,4.859474468231201
+3,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 3}",,,20.06804976463318
+4,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.005, 'max_attempts': 50, 'restarts': 0}",,,4.908495187759399

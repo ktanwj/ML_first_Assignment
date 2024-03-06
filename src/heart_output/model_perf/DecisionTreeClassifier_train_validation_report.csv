@@ -1,6 +1,0 @@
-,model,Scoring metric,Hyperparameters,Mean score (validation),Std score (validation),Mean wall clock time
-63,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'gini', 'max_depth': 10000, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 2}",0.99,0.011,0.0007968425750732421
-18,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'gini', 'max_depth': 100, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2}",0.982,0.021,0.0007918357849121093
-135,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'entropy', 'max_depth': 10000, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 2}",0.982,0.02,0.0008364677429199219
-99,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'entropy', 'max_depth': 100, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 2}",0.981,0.012,0.0007576942443847656
-90,DecisionTreeClassifier,f1,"{'class_weight': 'balanced', 'criterion': 'entropy', 'max_depth': 100, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2}",0.981,0.007,0.0008180141448974609

@@ -1,0 +1,16 @@
+,model,Scoring metric,Hyperparameters,Mean score (validation),Std score (validation),Mean wall clock time
+0,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 0}",,,5.131745100021362
+1,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 3}",,,20.733600473403932
+2,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 0}",,,4.859474468231201
+3,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 3}",,,20.06804976463318
+4,Random Hill Climb,f1,"{'algorithm': 'random_hill_climb', 'learning_rate': 0.005, 'max_attempts': 50, 'restarts': 0}",,,4.908495187759399
+0,Simulated Annealing,f1,"{'algorithm': 'simulated_annealing', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 0}",,,6.1710306167602536
+1,Simulated Annealing,f1,"{'algorithm': 'simulated_annealing', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 3}",,,6.680043888092041
+2,Simulated Annealing,f1,"{'algorithm': 'simulated_annealing', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 0}",,,6.8965599060058596
+3,Simulated Annealing,f1,"{'algorithm': 'simulated_annealing', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 3}",,,7.108152055740357
+4,Simulated Annealing,f1,"{'algorithm': 'simulated_annealing', 'learning_rate': 0.005, 'max_attempts': 50, 'restarts': 0}",,,6.63795576095581
+0,Genetic Algorithm,f1,"{'algorithm': 'genetic_alg', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 0}",,,623.1199616909028
+1,Genetic Algorithm,f1,"{'algorithm': 'genetic_alg', 'learning_rate': 0.001, 'max_attempts': 50, 'restarts': 3}",,,636.1028491973877
+2,Genetic Algorithm,f1,"{'algorithm': 'genetic_alg', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 0}",,,695.6386564731598
+3,Genetic Algorithm,f1,"{'algorithm': 'genetic_alg', 'learning_rate': 0.001, 'max_attempts': 100, 'restarts': 3}",,,620.2568568229675
+4,Genetic Algorithm,f1,"{'algorithm': 'genetic_alg', 'learning_rate': 0.005, 'max_attempts': 50, 'restarts': 0}",,,625.2626275539399

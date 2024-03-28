@@ -1,0 +1,6 @@
+,model,Scoring metric,Hyperparameters,Mean score (validation),Std score (validation),Mean wall clock time
+6,MLPClassifier,f1,"{'activation': 'tanh', 'hidden_layer_sizes': (100, 50), 'learning_rate': 'adaptive', 'learning_rate_init': 0.01}",0.76,0.009,1.3739966869354248
+14,MLPClassifier,f1,"{'activation': 'tanh', 'hidden_layer_sizes': (100, 50, 25), 'learning_rate': 'adaptive', 'learning_rate_init': 0.01}",0.76,0.012,1.405995512008667
+10,MLPClassifier,f1,"{'activation': 'tanh', 'hidden_layer_sizes': (100, 25), 'learning_rate': 'adaptive', 'learning_rate_init': 0.01}",0.759,0.013,1.1019418239593506
+4,MLPClassifier,f1,"{'activation': 'tanh', 'hidden_layer_sizes': (100, 50), 'learning_rate': 'constant', 'learning_rate_init': 0.01}",0.758,0.02,1.4139070510864258
+12,MLPClassifier,f1,"{'activation': 'tanh', 'hidden_layer_sizes': (100, 50, 25), 'learning_rate': 'constant', 'learning_rate_init': 0.01}",0.758,0.007,1.6122116088867187

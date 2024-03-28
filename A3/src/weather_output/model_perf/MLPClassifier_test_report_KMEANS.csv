@@ -1,0 +1,2 @@
+,model,Score,Best hyperparameters,Test score,Best refit time
+0,MLPClassifier,f1,"{'activation': 'tanh', 'hidden_layer_sizes': (100, 50, 25), 'learning_rate': 'adaptive', 'learning_rate_init': 0.01}",0.5962373371924746,2.159369945526123
